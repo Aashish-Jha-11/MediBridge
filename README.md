@@ -19,7 +19,7 @@ A modern healthcare platform that connects patients with verified doctors for se
 - **Authentication**: Clerk
 - **UI Components**: Radix UI + Tailwind CSS
 - **Video Calling**: Vonage/OpenTok
-- **Deployment**: Ready for Vercel/Netlify
+- **Deployment**: Ready for Vercel
 
 ## 🛠️ Installation
 
